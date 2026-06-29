@@ -91,3 +91,14 @@ CUDA_VISIBLE_DEVICES= 0, 1; python run.py \
 This project is based on the [VLN-CE] and [IVLN-CE], our CLIP is based on [clip-b/32], our LLM is based on [Qwen-0.5b], we load [LLaVA-OneVision-qwen2-7b] and LLaMa is based on Please dowload [LLama-13b].
 
 We are grateful for all these good works!
+
+### BibTeX
+
+If you find this work useful, please cite it as:
+```bibtex
+@article{han2026seqwalker,
+  title={SeqWalker: Sequential-Horizon Vision-and-Language Navigation with Hierarchical Planning},
+  author={Han, Zebin and Wang, Xudong and Liu, Baichen and Lyu, Qi and Shang, Zhenduo and Dong, Jiahua and Liu, Lianqing and Han, Zhi},
+  journal={arXiv preprint arXiv:2601.04699},
+  year={2026}
+}
